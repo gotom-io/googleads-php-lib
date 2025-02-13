@@ -1,3 +1,16 @@
+### 67.0.0
+
+* Added support for v202411.
+* Removed support for v202311.
+* Removed examples for v202402.
+
+### 66.0.0
+
+* Added support for v202408.
+* Removed support for v202308.
+* Removed examples for v202311.
+* Added AdsTxtService in v202408.
+
 ### 65.0.0
 
 * Added support for v202405.
