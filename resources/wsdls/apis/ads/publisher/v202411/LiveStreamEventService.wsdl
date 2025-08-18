@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Generated file, do not edit -->
-<!-- Copyright 2024 Google Inc. All Rights Reserved -->
+<!-- Copyright 2025 Google Inc. All Rights Reserved -->
 <wsdl:definitions
   targetNamespace="https://www.google.com/apis/ads/publisher/v202411"
   xmlns:tns="https://www.google.com/apis/ads/publisher/v202411"
@@ -1828,8 +1828,7 @@
           <enumeration value="AD_BREAK_MARKUP_HLS_DATERANGE_SPLICE">
             <annotation>
               <documentation>
-                The DATERANGE (Anvato) ad break marker type. This mark up type is only applicable for HLS live
-                streams.
+                The DATERANGE ad break marker type. This mark up type is only applicable for HLS live streams.
               </documentation>
             </annotation>
           </enumeration>

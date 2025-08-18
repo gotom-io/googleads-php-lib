@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Generated file, do not edit -->
-<!-- Copyright 2024 Google Inc. All Rights Reserved -->
+<!-- Copyright 2025 Google Inc. All Rights Reserved -->
 <wsdl:definitions
   targetNamespace="https://www.google.com/apis/ads/publisher/v202411"
   xmlns:tns="https://www.google.com/apis/ads/publisher/v202411"
@@ -207,8 +207,8 @@
                 name="mimeTypes" type="tns:AssetCreativeTemplateVariable.MimeType">
                 <annotation>
                   <documentation>
-                    A set of supported mime types. This set can be empty or null if there's no
-                    constraint, meaning files of any mime types are allowed.
+                    A set of supported mime types. This set can be empty if there's no constraint, meaning files of
+                    any mime types are allowed.
                   </documentation>
                 </annotation>
               </element>
